@@ -8,7 +8,7 @@
 Voice Garden team @[BrickHack 4](https://brickhack.io/). Our team is [Pat](https://github.com/SweetmanTech), [Zach](https://github.com/BronxBombers), [Alex](https://github.com/alex9jk) & [Saleh](https://github.com/qirh).
 Development Google Doc is [here](https://docs.google.com/document/d/17A3qvEIXEAEWF4IlBtXKWe8o2696Y7JVG5GbErC8sJk/edit)
 
-This is a Google Voice application. The application enables the Voice to issue commands and request information from an Arduino ([EcoDuino](https://www.dfrobot.com/product-641.html)). Moreover the Arduino comes equipped with a humidity+temprature sensor and a water pump.
+This is a Google Home application. The application enables the Home to issue commands and request information from an Arduino ([EcoDuino](https://www.dfrobot.com/product-641.html)). Moreover the Arduino comes equipped with a humidity+temperature sensor and a water pump.
 
 
 ## Conversation Flowchart
