@@ -10,13 +10,13 @@ Development Google Doc is [here](https://docs.google.com/document/d/17A3qvEIXEAE
 
 This is a Google Home application. The application enables the Home to issue commands and request information from an Arduino ([EcoDuino](https://www.dfrobot.com/product-641.html)). Moreover the Arduino comes equipped with a humidity+temperature sensor and a water pump.
 
+Webhook written in NodeJS. Ardunio sketch written in C.
+
 
 ## Conversation Flowchart
 
 
 <div style="text-align:center"><img src="pics/flow.png" height = "450" width="650"></div>
-
-
 
 
 ## Copyright Information
